@@ -1,6 +1,13 @@
 # symfonia_test
 
-A new Flutter project.
+A simple crypto price list app that displays that the prices of crypto coins ordered accordingto their market cap rank.
+
+It uses bloc/cubit for state management. 
+ 
+
+## App UI
+
+
 
 ## Getting Started
 
