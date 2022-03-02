@@ -1,12 +1,13 @@
 # symfonia_test
 
-A simple crypto price list app that displays that the prices of crypto coins ordered accordingto their market cap rank.
+A simple crypto price list app that displays that the prices of crypto coins ordered according to their market cap rank.
 
-It uses bloc/cubit for state management. 
+It get requests from the coingecko api and uses bloc/cubit for state management. 
  
 
 ## App UI
 
+![PHOTO-2022-03-02-21-14-23](https://user-images.githubusercontent.com/34323224/156445764-8b3c0b96-9b00-4edc-8afc-4798aef5678c.jpg)
 
 
 ## Getting Started
